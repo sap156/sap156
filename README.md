@@ -5,7 +5,9 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinavneni) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@saiparvathaneni) [![Data Engineering Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=databricks&logoColor=white)](https://www.datascienceportfol.io/saiparvathaneni)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinavneni) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@saiparvathaneni) [![Data Engineering Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=databricks&logoColor=white)](https://www.datascienceportfol.io/saiparvathaneni) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sap156@pitt.edu)
+
 
 
 # 💻 Tech Stack:

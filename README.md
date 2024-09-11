@@ -3,6 +3,26 @@
 # 💫 About Me:
 🔨 I’m currently working on: Building a strong data engineer community through my blog, where I write about data engineering concepts and best practices.<br><br>👯 I’m looking to collaborate on: Connecting with fellow data engineers and enthusiasts to build complex data pipelines and workflows, write insightful articles, and deliver seminars.<br><br>🤝 I’m looking for help with: Anything related to data engineering—be it research, writing blogs, giving seminars, presentations, building pipelines, or discussing solutions.<br><br>🌱 I’m currently learning: A variety of open-source Apache tools that are crucial for modern data engineering.<br><br>💬 Ask me about: Data engineering with AWS and Azure, data lakes, data warehouses, lake houses, integrating data from multiple sources, and building efficient data pipelines.<br><br>⚡ Fun fact: I’m passionate about explaining complex technical concepts using simple analogies, like comparing Spark concepts to Baking Pizza or Building Lego.
 
+## 📝 Blogs:
+- [Building a Log Analysis Data Pipeline Using Kafka, Elasticsearch, Logstash, and Kibana (ELK Stack)](https://medium.com/@saiparvathaneni/building-a-log-analysis-data-pipeline-using-kafka-elasticsearch-logstash-and-kibana-elk-stack-8c7c0c034d3f)
+- [Data Engineering with Kubernetes: End-to-End Data Pipeline](https://medium.com/towardsdev/data-engineering-with-kubernetes-end-to-end-data-pipeline-6339bb24b0f7)
+- [Building a Data Modeling Pipeline: dbt, Snowflake, and Airflow](https://towardsdev.com/building-a-data-modeling-pipeline-dbt-snowflake-and-airflow-5a8ba41ce1fa)
+- [Azure Databricks for Beginners: Build Your First Notebook](https://towardsdev.com/azure-databricks-for-beginners-build-your-first-notebook-242a329f9c48)
+- [CI/CD for Modern Data Engineering](https://towardsdev.com/ci-cd-for-modern-data-engineering-e2e7d2d0a694)
+- [Building a Streaming Data Pipeline Using Azure Event Hub, Stream Analytics, and SQL Server](https://towardsdev.com/building-a-streaming-data-pipeline-using-azure-event-hub-stream-analytics-and-sql-server-a9f3a3df6af5)
+- [Building an End-to-End Data Pipeline with Delta Lake and Databricks](https://towardsdev.com/building-an-end-to-end-data-pipeline-with-delta-lake-and-databricks-337202a110a8)
+- [Kafka Connect: Achieving Change Data Capture (Part 1: Source)](https://towardsdev.com/kafka-connect-achieving-change-data-capture-part-1-source-fda50da6279c)
+- [Kafka Connect: Achieving Change Data Capture (Part 2: Sink)](https://saiparvathaneni.medium.com/kafka-connect-achieving-change-data-capture-part-2-sink-9b1e1f884c3e)
+- [Building a Real-Time Sensor Data Analysis Pipeline: AWS Kinesis and DynamoDB](https://towardsdev.com/building-a-real-time-sensor-data-analysis-pipeline-aws-kinesis-and-dynamodb-18214739b8ea)
+- [Building an End-to-End Data Pipeline with Databricks, Azure Blob Storage, and Azure Data Factory](https://towardsdev.com/building-an-end-to-end-data-pipeline-with-databricks-azure-blob-storage-and-azure-data-factory-44a35b9fb2d7)
+- [Building a Real-Time Log Monitoring System with Kafka and Spark Streaming](https://towardsdev.com/building-a-real-time-log-monitoring-system-with-kafka-and-spark-streaming-51b75ac8db04)
+- [dbt (Data Build Tool) for Beginners: Build Your First Data Model](https://towardsdev.com/dbt-data-build-tool-for-beginners-build-your-first-data-model-bc94a71080d3)
+- [Snowflake for Beginners: Build Your First Snowpipe](https://towardsdev.com/snowflake-for-beginners-build-your-first-snowpipe-f380cc830ff5)
+- [Building a Data Stream Pipeline (Part 2) with Kafka Streams and Cassandra](https://saiparvathaneni.medium.com/building-a-data-stream-pipeline-part-2-with-kafka-streams-and-cassandra-b9409d91ddbe)
+- [Building a Data Stream Pipeline (Part 1) with Crypto API, Python, Airflow, and Kafka](https://saiparvathaneni.medium.com/building-a-data-stream-pipeline-part-1-with-crypto-api-python-airflow-and-kafka-e04663998be7)
+- [Building an End-to-End Data Pipeline (Part 2) with AWS Services](https://saiparvathaneni.medium.com/building-an-end-to-end-data-pipeline-part-2-with-aws-services-96b1f88a9270)
+- [Building an End-to-End Data Pipeline with Airflow and Python](https://towardsdev.com/building-an-end-to-end-data-pipeline-with-airflow-and-python-3bf60fb6986)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinavneni) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@saiparvathaneni) [![Data Engineering Portfolio](https://img.shields.io/badge/Portfolio-%230077B5.svg?logo=databricks&logoColor=white)](https://www.datascienceportfol.io/saiparvathaneni) 

@@ -14,6 +14,7 @@
 - [Kafka Connect: Achieving Change Data Capture (Part 1: Source)](https://towardsdev.com/kafka-connect-achieving-change-data-capture-part-1-source-fda50da6279c)
 - [Kafka Connect: Achieving Change Data Capture (Part 2: Sink)](https://saiparvathaneni.medium.com/kafka-connect-achieving-change-data-capture-part-2-sink-9b1e1f884c3e)
 - [Building a Real-Time Sensor Data Analysis Pipeline: AWS Kinesis and DynamoDB](https://towardsdev.com/building-a-real-time-sensor-data-analysis-pipeline-aws-kinesis-and-dynamodb-18214739b8ea)
+- [Building a Streaming Data Pipeline: Spark vs. Flink Comparison with Kafka Integration](https://medium.com/towardsdev/building-a-streaming-data-pipeline-spark-vs-flink-comparison-with-kafka-integration-2b4a090ec3c8)
 - [Building an End-to-End Data Pipeline with Databricks, Azure Blob Storage, and Azure Data Factory](https://towardsdev.com/building-an-end-to-end-data-pipeline-with-databricks-azure-blob-storage-and-azure-data-factory-44a35b9fb2d7)
 - [Building a Real-Time Log Monitoring System with Kafka and Spark Streaming](https://towardsdev.com/building-a-real-time-log-monitoring-system-with-kafka-and-spark-streaming-51b75ac8db04)
 - [dbt (Data Build Tool) for Beginners: Build Your First Data Model](https://towardsdev.com/dbt-data-build-tool-for-beginners-build-your-first-data-model-bc94a71080d3)

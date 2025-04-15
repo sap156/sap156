@@ -1,9 +1,35 @@
 ## Hi there 👋
 
-# 💫 About Me:
-🔨 👨‍💻 Who I Am:
-A data engineer at heart who loves turning chaos into clarity—be it messy datasets or fuzzy concepts. I’m on a mission to simplify data engineering through stories, analogies, and hands-on examples that actually make sense.<br><br>🛠️ What I’m Working On:
-Building a community of curious data minds through my blog, open-source projects, and AI-powered tools for modern data workflows.<br><br>🤝 I can to help with: Anything related to data engineering—be it research, writing blogs, giving seminars, presentations, building pipelines, or discussing solutions.<br><br>🌱 I’m currently learning: A variety of open-source AI tools that are crucial for modern data engineering, especially in GenAI.<br><br>💬 Ask me about: Data engineering with AWS and Azure, Generative AI, Data lakes, Data warehouses, Lakehouses, integrating data from multiple sources, and building efficient data pipelines.<br><br>⚡ Fun fact: I’m passionate about explaining complex technical concepts using simple analogies, like comparing Spark concepts to Baking Pizza or Building Lego.
+# 💫 About Me
+
+👨‍💻 **Who I Am:**  
+An innovator at heart who loves turning chaos into clarity. I’m on a mission to simplify data engineering and AI through stories, analogies, and hands-on examples that actually make sense.
+
+🛠️ **What I’m Working On:**  
+Building a community of curious data minds through [my blog]([#](https://medium.com/@saiparvathaneni)), open-source projects, and AI-powered tools for modern data workflows.
+
+🤝 **Let’s Team Up On:**  
+- Experimenting with GenAI for data productivity
+- Designing end-to-end data pipelines  
+- Writing fun, insightful blog posts  
+- Hosting workshops and live demos on real-world data engineering use cases
+
+💡 **I Can Help With:**  
+- Building GenAI apps
+- Making data engineering more approachable for beginners  
+- Brainstorming or debugging data workflows  
+- Teaching concepts with visual and real-world analogies  
+- Writing high-quality technical content
+
+🧠 **Learning & Exploring:**  
+GenAI tooling, LLM, RAG stacks, metadata-driven ETL pipelines, and how AI fits into the future of data platforms.
+
+📢 **Ask Me About:**  
+GenAI, Snowflake, dbt, Kafka, ETL/ELT, modern data stacks, or how to use LLMs to make your life easier as a data engineer.
+
+⚡ **Fun Fact:**  
+I once explained Slowly Changing Dimensions using Pokémon evolutions—and it worked.
+
 
 ## 📝 Blogs:
 - [Generative AI for Data Engineering](https://towardsdev.com/generative-ai-for-data-engineering-data-generation-and-augmentation-part-1-1196382848fe)

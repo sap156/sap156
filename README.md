@@ -33,6 +33,7 @@ I once explained Slowly Changing Dimensions using Pokémon evolutions—and it w
 
 ## 📝 Blogs:
 - [Generative AI for Data Engineering](https://towardsdev.com/generative-ai-for-data-engineering-data-generation-and-augmentation-part-1-1196382848fe)
+- [Learn LangChain](https://medium.com/gopenai/langchain-chat-models-talk-to-llms-like-a-pro-no-really-62b190dfdb26)
 - [Building a Log Analysis Data Pipeline Using Kafka, Elasticsearch, Logstash, and Kibana (ELK Stack)](https://medium.com/@saiparvathaneni/building-a-log-analysis-data-pipeline-using-kafka-elasticsearch-logstash-and-kibana-elk-stack-8c7c0c034d3f)
 - [Data Engineering with Kubernetes: End-to-End Data Pipeline](https://medium.com/towardsdev/data-engineering-with-kubernetes-end-to-end-data-pipeline-6339bb24b0f7)
 - [Building a Data Modeling Pipeline: dbt, Snowflake, and Airflow](https://towardsdev.com/building-a-data-modeling-pipeline-dbt-snowflake-and-airflow-5a8ba41ce1fa)
